@@ -3,7 +3,7 @@ package controllers
 import (
 	"encoding/json"
 	"errors"
-	"rulerApiV2/models"
+	"github.com/apdaza/rulerApiV2/models"
 	"strconv"
 	"strings"
 

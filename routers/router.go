@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"rulerApiV2/controllers"
+	"github.com/apdaza/rulerApiV2/controllers"
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/plugins/cors"

@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "rulerApiV2/docs"
-	_ "rulerApiV2/routers"
+	_ "github.com/apdaza/rulerApiV2/docs"
+	_ "github.com/apdaza/rulerApiV2/routers"
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
